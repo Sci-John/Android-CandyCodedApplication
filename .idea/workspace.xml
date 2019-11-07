@@ -9,9 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +80,8 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml">
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+            <state relative-caret-position="68">
+              <caret line="41" column="34" lean-forward="true" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -428,12 +426,15 @@
     <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.07 at 00h 32m 43s.xml">
       <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
     </history-entry>
+    <history-entry file="_3_StartThePhoneActivity - 2019.11.07 at 23h 01m 32s.xml">
+      <configuration name="_3_StartThePhoneActivity" configurationId="AndroidJUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3348485" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.3348485" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -444,9 +445,9 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32840723" />
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.2017291" />
       <window_info anchor="bottom" id="TODO" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.4969697" weight="0.32840723" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" sideWeight="0.4969697" visible="true" weight="0.32840723" />
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5030303" side_tool="true" weight="0.32840723" />
-      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.49848485" visible="true" weight="0.46305418" />
+      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.49848485" weight="0.46305418" />
       <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49848485" weight="0.32840723" />
       <window_info anchor="bottom" id="Debug" order="8" />
@@ -519,8 +520,8 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        <state relative-caret-position="68">
+          <caret line="41" column="34" lean-forward="true" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
         </state>
       </provider>
     </entry>
