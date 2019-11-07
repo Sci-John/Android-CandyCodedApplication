@@ -60,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="157">
+              <caret line="29" column="10" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -415,11 +415,11 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32840723" />
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.2017291" />
       <window_info anchor="bottom" id="TODO" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" sideWeight="0.49924242" visible="true" weight="0.32840723" />
-      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5007576" side_tool="true" weight="0.32840723" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" sideWeight="0.4969697" visible="true" weight="0.32840723" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5030303" side_tool="true" visible="true" weight="0.32840723" />
       <window_info anchor="bottom" id="Build" order="5" sideWeight="0.49848485" weight="0.46305418" />
       <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49924242" weight="0.32840723" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49848485" weight="0.32840723" />
       <window_info anchor="bottom" id="Debug" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="right" id="Preview" weight="0.32954547" />
@@ -482,8 +482,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="157">
+          <caret line="29" column="10" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
         </state>
       </provider>
     </entry>
